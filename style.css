@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 20px;
+    margin: 0px;
+    width: 100%;
+}
+
+#start_button, #no_obj, #display{
+    font-size: 17px;
+}
+
+#fff{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: grey;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+}
